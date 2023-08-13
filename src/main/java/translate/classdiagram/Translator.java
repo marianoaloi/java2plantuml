@@ -1,4 +1,4 @@
-package translate;
+package translate.classdiagram;
 
 import com.github.javaparser.ast.body.ClassOrInterfaceDeclaration;
 import com.github.javaparser.ast.body.EnumDeclaration;

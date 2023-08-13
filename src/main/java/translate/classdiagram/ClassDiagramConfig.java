@@ -1,4 +1,4 @@
-package translate;
+package translate.classdiagram;
 
 import com.github.javaparser.ast.visitor.VoidVisitorAdapter;
 

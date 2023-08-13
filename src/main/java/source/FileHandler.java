@@ -1,7 +1,8 @@
 package source;
 
 import com.github.javaparser.ast.CompilationUnit;
-import translate.Translator;
+
+import translate.classdiagram.Translator;
 
 import java.io.File;
 import java.io.FileNotFoundException;

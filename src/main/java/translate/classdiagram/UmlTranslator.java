@@ -1,4 +1,4 @@
-package translate;
+package translate.classdiagram;
 
 import com.github.javaparser.JavaParser;
 import com.github.javaparser.ast.CompilationUnit;
@@ -97,6 +97,8 @@ public class UmlTranslator implements Translator {
         sb.append("\n");
         //this is for removing shapes in attributes/methods visibility
 
+        sb.append("header  <img:sascar.svg>\u00AE \\n Mariano Aloi");
+        sb.append("\n");
         if(!config.isShowColoredAccessSpecifiers())
             sb.append("skinparam classAttributeIconSize 0\n");
 

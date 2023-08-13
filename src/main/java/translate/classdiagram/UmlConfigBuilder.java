@@ -1,4 +1,4 @@
-package translate;
+package translate.classdiagram;
 
 public interface UmlConfigBuilder {
 
